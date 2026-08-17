@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>n8flow Studio</h1>
+  <h1>N8FLOW TECNOLOGIA</h1>
   <p>Automação · Produtos Digitais · Presença Online · Natal, RN 🇧🇷</p>
   <p><em>Tecnologia que trabalha enquanto você atende.</em></p>
 
   [![Website](https://img.shields.io/badge/n8flow.com.br-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://lp.n8flow.com.br)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroasnascimento/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pedroasnascimento)
-  [![Email](https://img.shields.io/badge/n8flow.ai@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:n8flow.ai@gmail.com)
+  [![Email](https://img.shields.io/badge/contato@n8flow.com.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@n8flow.com.br)
 </div>
 
 ---
 
-## Sobre a n8flow Studio
+## Sobre a N8FLOW TECNOLOGIA
 
 Somos uma agência digital 100% remota, com base em Natal/RN, focada em transformar processos manuais e presença digital fraca em **sistemas que trabalham por você**.
 
@@ -74,6 +74,6 @@ Nossos clientes recorrentes são **advogados, clínicas, donos de restaurante e 
 
 <div align="center">
 
-Desenvolvido e mantido por [**Pedro Nascimento**](https://github.com/PedroNascimento) — fundador da n8flow Studio.
+Desenvolvido e mantido por [**Pedro Nascimento**](https://github.com/PedroNascimento) — co-fundador e CTO da N8FLOW TECNOLOGIA.
 
 </div>
